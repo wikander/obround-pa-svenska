@@ -26,7 +26,9 @@ Andra engelska namn på den är [stadium](Stadium), discorectangle och sausage b
 
 ## Vad heter den på svenska då?
 
-Ja du, vad jag vet finns det inget bra namn för en obround på svenska. Om man ska ta någon av de ovan och göra en direktöversättning så gillar jag discorektangel bäst. Lagom lättsamt och svängigt. Formen påminner om en tablett eller ett piller, och många kallar det just piller, dock tycker jag piller är för hårt accosierat med vissa proportioner. Istället skulle jag vilja namnge det i analogi med kvirkeln, som en kombination av två former. Obrounden är en kombination av en rektangel och en cirkel, därför tycker jag det är lämpligt att kalla den **"rektirkel"**.
+Ja du, vad jag vet finns det inget bra namn för en obround på svenska. Om man ska ta någon av de ovan och göra en direktöversättning så gillar jag **discorektangel** bäst. Lagom lättsamt och svängigt.
+
+Formen påminner om en tablett eller ett piller, och många kallar det just **piller**, dock tycker jag piller är för hårt accosierat med vissa proportioner av figuren. Istället skulle jag vilja namnge det i analogi med kvirkeln, som en kombination av två former. Obrounden är en kombination av en rektangel och en cirkel, därför tycker jag det är lämpligt att kalla den för **"rektirkel"**.
 
 ![Rektirkel](./image/rektirkel.svg)
 
