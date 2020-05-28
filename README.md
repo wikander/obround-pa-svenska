@@ -6,7 +6,7 @@ Kärt barn har många namn, men vad heter Obround på Svenska? Va? Vad heter vad
 
 Enkla geometriska former vet vi vad det är, vi får lära oss allt om dem i skolan. De heter saker som cirkel, kvadrat och triangel. Små variationer i dessa ger oss nya former med andra namn, bland annat oval, ellips, rektangel och parallellogram.
 
-En blandning av en kvadrat och en cirkel, en figur som har egenskaper från både kvadrat och cirkel, kallas för [kvirkel](https://sv.wikipedia.org/wiki/Kvirkel). På liknande sätt, omän inte speciellt matematiskt, är en engelsk obround en kombination av två enklare former, nämligen rektangel och cirkel, eller två halvcirklar.
+En blandning av en kvadrat och en cirkel, en figur som har egenskaper från både kvadrat och cirkel, kallas för [kvirkel](https://sv.wikipedia.org/wiki/Kvirkel). På liknande sätt, om än inte speciellt matematiskt, är en engelsk obround en kombination av två enklare former, nämligen rektangel och cirkel, eller två halvcirklar.
 
 ![Cirkel](./image/circle.svg)
 
