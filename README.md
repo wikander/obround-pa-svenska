@@ -37,3 +37,7 @@ Formen påminner om en tablett eller ett piller, och många kallar det just **pi
 En variant på rektirkeln är kombinationen av en rektangel och en oval, man kan säga att den är lite utdragen i nån av axlarna. Den vill jag kalla **"rektval"**, med samma resonemang som ovan.
 
 ![Rektval](./image/rektval.svg)
+
+## Rectirkel i verkligheten
+
+[Klicka här](./rektirkel-i-det-vilda.md)
