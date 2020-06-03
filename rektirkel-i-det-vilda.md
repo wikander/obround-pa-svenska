@@ -5,3 +5,6 @@ Hur används rektirklar i verkligenheten, i det vilda? Här hittar du exempel p�
 **En hamburgare**
 
 ![Hamburgare](./image/in-the-wild/burger.jpg)
+
+**En strömbrytare**
+![Strömbrytare](./image/in-the-wild/tradfri.jpg)
