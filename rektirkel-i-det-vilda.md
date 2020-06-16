@@ -9,3 +9,7 @@ Hur används rektirklar i verkligenheten, i det vilda? Här hittar du exempel p�
 **En strömbrytare**
 
 ![Strömbrytare](./image/in-the-wild/tradfri.jpg)
+
+**Filar**
+
+![Filar](./image/in-the-wild/fil.jpg)
